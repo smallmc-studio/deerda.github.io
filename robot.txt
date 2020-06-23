@@ -1,0 +1,3 @@
+#Disallow Directory admin
+user-agent:*
+Disallow:/≤‚ ‘/
